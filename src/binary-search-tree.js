@@ -15,11 +15,7 @@ class Node {
 }
 
 
-
 class BinarySearchTree {
-  constructor() {
-    this.root = null;
-  }
 
   root() {
     throw new NotImplementedError('Not implemented');
